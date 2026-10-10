@@ -2,10 +2,30 @@
   "version": "1.0",
   "github_manifest_url": "",
   "games": [
-    { "appid": "578080", "download_url": "", "exe_path": "Apex Legends\\r5apex.exe" },
-    { "appid": "4000",   "download_url": "", "exe_path": "Team Fortress 2\\hl2.exe" },
-    { "appid": "230410", "download_url": "", "exe_path": "Warframe\\Start.exe" },
-    { "appid": "291330", "download_url": "", "exe_path": "PathOfExile\\PathOfExile.exe" },
-    { "appid": "570",    "download_url": "", "exe_path": "dota 2 beta\\game\\bin\\win64\\dota2.exe" }
+    {
+      "appid": "578080",
+      "download_url": "",
+      "exe_path": "Apex Legends\\r5apex.exe"
+    },
+    {
+      "appid": "4000",
+      "download_url": "",
+      "exe_path": "Team Fortress 2\\hl2.exe"
+    },
+    {
+      "appid": "230410",
+      "download_url": "",
+      "exe_path": "Warframe\\Start.exe"
+    },
+    {
+      "appid": "291330",
+      "download_url": "",
+      "exe_path": "PathOfExile\\PathOfExile.exe"
+    },
+    {
+      "appid": "570",
+      "download_url": "",
+      "exe_path": "dota 2 beta\\game\\bin\\win64\\dota2.exe"
+    }
   ]
 }
