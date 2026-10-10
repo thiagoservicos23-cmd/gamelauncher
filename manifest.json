@@ -26,6 +26,11 @@
       "appid": "570",
       "download_url": "",
       "exe_path": "dota 2 beta\\game\\bin\\win64\\dota2.exe"
+    },
+    {
+      "appid": "2406770",
+      "download_url": "https://ts.bzzhr.to/d/xg6awwggjxp8?v=hCEyECpr6pSX4lVJoQE17vpfnof6e3E9zavcVMcLiz2OVUwsBefU1guE7Si_2b2cDeQGkhWrCoqrNlJ3eniodhHc-fAXNoHVF-HYe0XrGS6pHjMh_wP-qUuS6zRatZSkRo85YjUOwGn8a_4o8nXeBc7W7JhN93xg9Z84IHNpfD2JDWYkA-vrbTHnjO8axFV0",
+      "exe_path": "Bodycam\\Bodycam\\Binaries\\Win64\\Bodycam-Win64-Shipping.exe"
     }
   ]
 }
